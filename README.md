@@ -1,6 +1,6 @@
 # Jungle Book Character-level LSTM
 
-Simple character-level LSTM text generator trained on The Jungle Book (Project by Sreenivas Bhattiprolu). The model learns sequences of characters and predicts the next character to generate new text.
+Simple character-level LSTM text generator trained on The Jungle Book The model learns sequences of characters and predicts the next character to generate new text.
 
 ## Repository contents
 - `the_jungle_book.txt` (expected under `files/`): input corpus (Project Gutenberg).
